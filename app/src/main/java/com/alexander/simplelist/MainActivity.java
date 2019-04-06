@@ -16,7 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
         plList = findViewById(R.id.tv_pl_names);
 
-        String[] names = {"Java", "Python", "Ruby", "JavaScript", "Groovy"};
+        String[] names = {"Java", "Python", "Ruby", "JavaScript", "Groovy", "C", "C++", "Objective C",
+                "Swift", "Haskel", "Scala", "Html", "CSS", "Matlab"};
 
         plList.setText("");
 
